@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is my personalised readme file \n
+This is my personalised readme file
 My name is Ruhan
 <!--
 **ruh4nrr/ruh4nrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
